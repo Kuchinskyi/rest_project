@@ -3,10 +3,8 @@ package app.resource;
 import app.config.ResourceHttpRequest;
 import app.dto.resourceDto.Resource;
 import app.dto.resourceDto.ResourceDetail;
-import app.dto.usersDto.UserDetail;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static app.resource.TestData.*;
