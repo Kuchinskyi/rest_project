@@ -1,0 +1,7 @@
+app\config\UsersHttpRequest.class
+app\dto\usersDto\User.class
+app\config\BaseHttpRequest.class
+app\dto\usersDto\UserList.class
+app\dto\usersDto\Person.class
+app\dto\usersDto\Support.class
+app\dto\usersDto\UserDetail.class
